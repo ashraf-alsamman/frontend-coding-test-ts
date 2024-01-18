@@ -1,4 +1,3 @@
-// ToastComponent.spec.ts
 import { mount } from '@vue/test-utils';
 import ToastComponent from '../components/Toast.vue';
  
